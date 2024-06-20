@@ -21,6 +21,7 @@
 
 ## Languages and Tools 🌐 <br>
 <div>
-<p> <img align="left" width = 40% height= 40% src="https://github-readme-stats.vercel.app/api?username=pablynnecaldeira&show_icons=true&locale=en" alt="pablynnecaldeira" /> </p>
-<p><img align="center" width = 40% height= 40% src="https://github-readme-stats.vercel.app/api/top-langs?username=pablynnecaldeira&show_icons=true&locale=en&layout=compact" alt="pablynnecaldeira" /> </p>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PablynneCaldeira&theme=transparent&&width=20px&bg_color=000&border_color=7FFFD4&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PablynneCaldeira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </div>
